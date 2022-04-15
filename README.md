@@ -1,2 +1,0 @@
-# drums
-a mini drumset !
